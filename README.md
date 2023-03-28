@@ -1,13 +1,13 @@
 <!-- Header -->
 <h1 align="center">Hey there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-## 👨‍💻 About Me 
-Hey everyone! My name is Ilya and I am a software developer interested in Backend Development and Data Science.
+## About Me 👨‍💻 
+Hey everyone! My name is Ilya and I am a **Software Developer** interested in **Backend Development** and **Data Science**.
 
-## 🎓 Education 
-I am a sophomore at Boston University, majoring in Computer Science and minoring in Data Science and Physics.
+## Education 🎓
+I am a sophomore at **Boston University**, majoring in **Computer Science** and minoring in **Data Science** and **Physics**.
 
-## 🚀 Skills
+## Skills 🚀
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
@@ -20,8 +20,8 @@ I am a sophomore at Boston University, majoring in Computer Science and minoring
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-## 📊 Stats 
-### GitHub 🤍🖤
+## Stats 📊
+### 🤍GitHub🖤
 
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=ilyaboo&show_icons=true&theme=radical" alt="ilyaboo's GitHub Stats"/>
@@ -31,10 +31,10 @@ I am a sophomore at Boston University, majoring in Computer Science and minoring
 </p>
 
 
-### LeetCode 🖤🧡
+### 🖤LeetCode🧡
 [![Ilya's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=ibouligin&theme=dark&hide=contribs,prs)](https://github.com/IlyaBulygin)
 
-## 📩 Ways to Reach Me
+## Ways to Reach Me 📩
 - Email: <a href="mailto:ibouligin@gmail.com"><img src="https://img.shields.io/badge/Email-ibouligin%40gmail.com-red"></a>&nbsp;&nbsp;
 - LinkedIn <a href="https://www.linkedin.com/in/ilya-bulygin-56010b218/"><img src="https://img.shields.io/badge/LinkedIn-ilya--bulygin-blue"></a>&nbsp;&nbsp;
 - Telegram: <a href="https://t.me/IlushkaBoo"><img src="https://img.shields.io/badge/Telegram-IlushkaBoo-blueviolet"></a>
