@@ -5,7 +5,7 @@
 Hey everyone! My name is Ilya and I am a **Software Developer** interested in **Backend Development** and **Data Science**.
 
 ## Education 🎓
-I am a sophomore at **Boston University**, majoring in **Computer Science** and minoring in **Data Science** and **Physics**.
+I am a junior at **Boston University**, majoring in **Computer Science** and minoring in **Data Science** and **Physics**.
 
 ## Skills 🚀
 
