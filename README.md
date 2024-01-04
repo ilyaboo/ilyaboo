@@ -2,7 +2,7 @@
 <h1 align="center">Hey there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 ## About Me 👨‍💻 
-Hey everyone! My name is Ilya and I am a **Software Developer** interested in **Backend Development** and **Data Science**.
+Hey everyone! My name is Ilya and I am a **3rd year student** interested in **Data Science**, **Quant Dev** and **Software Engineering**.
 
 ## Education 🎓
 I am a junior at **Boston University**, majoring in **Computer Science** and minoring in **Data Science** and **Physics**.
