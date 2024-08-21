@@ -48,7 +48,7 @@ I am a junior at **Boston University**, majoring in **Computer Science** and min
 
 
 ### 🖤LeetCode🧡
-[![Ilya's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=ibouligin&theme=dark&hide=contribs,prs)](https://github.com/IlyaBulygin)
+![](https://leetcard.jacoblin.cool/ibouligin?ext=activity)
 
 ## Ways to Reach Me 📩
 - Email: <a href="mailto:ibouligin@gmail.com"><img src="https://img.shields.io/badge/Email-ibouligin%40gmail.com-red"></a>&nbsp;&nbsp;
