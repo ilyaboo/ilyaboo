@@ -48,7 +48,7 @@ I am a junior at **Boston University**, majoring in **Computer Science** and min
 
 
 ### 🖤LeetCode🧡
-![](https://leetcard.jacoblin.cool/ibouligin?ext=activity)
+![](https://leetcard.jacoblin.cool/ilyaboo?theme=dark)
 
 ## Ways to Reach Me 📩
 - Email: <a href="mailto:ibouligin@gmail.com"><img src="https://img.shields.io/badge/Email-ibouligin%40gmail.com-red"></a>&nbsp;&nbsp;
